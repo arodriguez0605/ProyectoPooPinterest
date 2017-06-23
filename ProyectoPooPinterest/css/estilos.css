@@ -1,0 +1,158 @@
+/*En un archivo css externo, no se incluye la etiqueta Style */
+h1{
+	color:#eeb70c;
+}
+
+body{
+	background-color: #FFFFFF;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+#texto-usuarios{
+	color: #FFFFFF;
+    font-family: inherit;
+    font-weight: 700;
+    margin: 0.25rem 0;
+    font-size: 24px;
+     margin: 0px 0px 0px 100px;
+}
+
+.fuente-encabezado{
+	font-weight: bolder;
+	font-weight: 700;
+	color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 6rem;
+    margin: 100px 0px 0px 100px;
+    letter-spacing: -0.1rem;
+    border-color: white;
+}
+
+.btn-rojo{
+    color: white;
+    font-weight: 700;
+    background-color: #bd081c;
+    font-size: 17px;
+    border-color: #bd081c;
+    border-radius: 3px;
+    font-family: inherit;
+    padding: 8px 16px;
+    text-align: center;
+}
+
+.mas-informacion{
+	color: white;
+	font-family: inherit;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2rem;
+    line-height: 1.5em;
+    margin: 0px 600px 0px 600px;
+}
+
+.barra-navegacion{
+	color: white;
+	font-size:18px;
+	font-family: inherit;
+	padding: 15px 0px 0px 50px;
+}
+
+#crear-cuenta{
+	color: white;
+	font-size:18px;
+	font-family: inherit;
+	padding: 15px 20px 0px 330px;
+}
+
+.todos-textos{
+	font-family: sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: #555555;
+    letter-spacing: -0.1rem;
+    border-color: #555555 ;
+    word-spacing: -2px;
+    letter-spacing: -2px;
+    font-weight: 600;
+}
+
+.txt-millones{
+	margin: -110px 0px 0px 700px;
+	font-family: inherit; 
+	font-size: 2rem;
+	align="left";
+	color: #555555;
+}
+
+.numeros-colores{
+	font-family: sans-serif;
+	font-size: 9rem;
+	font-weight: 900;
+	letter-spacing: -5px;
+}
+
+.textos-bajo-numeros{
+	font-family: inherit;
+	font-size: 20px;
+}
+
+#fila-tabla1{
+margin: 80px 20px 0px 0px;
+}
+
+#columna-tabla1{
+	margin: 5px;
+}
+
+#texto-subtitulos{
+	color: #555555;
+    font-family: inherit;
+    margin: 0.25rem 0;
+    font-size: 22px;
+     margin: 0px 0px 0px 100px;
+}
+
+.texto-tabla{
+	margin: -110px 0px 0px 700px;
+	font-family: inherit; 
+	font-size: 2rem;
+	align="left";
+	color: #555555;
+	font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+}
+
+.fuente-encabezado2{
+	font-weight: bolder;
+	color: #FFFFFF;
+    font-family: "HaasGrotDispRWeb", sans-serif;
+    font-size: 55px;
+    margin: -50px 0px 0px 680px;
+    border-color: white;
+    letter-spacing: -0.2px;
+    line-height: 1.166666667em;
+    word-spacing: -10px;
+}
+
+#texto-subsubtitulos{
+	color: #555555;
+    font-family: inherit;
+    margin: 0.25rem 0;
+    font-size: 21px;
+    margin: 0px 0px 0px 100px;
+    font-weight: bolder;
+}
+
+.texto-acercade{
+	font-family: inherit; 
+	font-size: 20px;
+	color: #555555;
+	font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    opacity: 0.9;
+}

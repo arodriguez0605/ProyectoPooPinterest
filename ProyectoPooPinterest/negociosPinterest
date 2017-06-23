@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<!--@arodriguez!-->
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Pragma" content="no-cache"> <!--evitar problemas con la cache!-->
+	<meta http-equiv="Expires" content="-1">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/estilos.css">
+		<title>Pinterest para empresas | Pinterest for business</title>
+		<link rel="icon" href="logo.svg" sizes="24x24" type="image/svg">
+		
+		
+	</head>
+	<body>
+
+		<div style="background-image: url(img/fondoNegocios.jpg); background-position: center center; background-size: cover;" > <!--imagen inicial!-->
+	  
+	  		<div class="barra-navegacion"> <!--barra navegacion!-->
+		  		<a href="" class="barra-navegacion"><img src="img/logo.svg" sizes="24x24">&nbspBusiness</a>
+		  		<a href="" class="barra-navegacion"><b>Primeros pasos</b></a>
+		  		<a href="" class="barra-navegacion"><b>Herramientas</b></a>
+		  		<a href="" class="barra-navegacion"><b>Historias de éxito</b></a>
+		  		<a href="" id="crear-cuenta"><b>Crea una cuenta</b></a>
+
+
+	  		</div>
+				<h1 class="fuente-encabezado">
+			 	Permite que te descubran. Mejora la <br> percepción. Obtén resultados.
+				</h1><br>
+
+				<p id="texto-usuarios">Los usuarios de Pinterest están abiertos a toda clase <br>
+				de posibilidades. Independientemente de que quieras <br>
+					<a href="" style="color: #ffffff"> <u>dar a conocer tu marca</u></a>, 
+					<a href="" style="color: #ffffff"><u>aumentar el tráfico</u></a>, 
+					<a href="" style="color: #ffffff"> <u>ofrecer <br>una acción </u></a> o 
+					<a href="" style="color: #ffffff"> <u>impulsar las ventas en tiendas o en línea</u></a>, 
+					<br> Pinterest tiene la solución perfecta para ti.
+				</p>
+
+			<br><br>
+
+				<button class="btn-rojo" style="margin: 0px 0px 0px 100px;">Únete como empresa </button>
+			<br><br><br>
+
+			<div class="mas-informacion">Más información</div>
+			<span class="glyphicon glyphicon-menu-down" style="font-size: 3rem; 
+				color: white; margin: 0px 655px 0px 655px;"></span>
+			<br><br>
+
+		</div>
+			<br><br>
+		
+		<div> <!--textos segunda parte!-->
+			<div class="todos-textos" style="margin: 15px 0px 0px 100px;">Pinterest inspira a la</div>
+			<div class="todos-textos" style="margin: -20px 0px 0px 100px;">gente para que actúe</div>
+
+			<div> <!--textos segunda parte!-->
+				<p class="txt-millones">Millones de personas utilizan Pinterest cada día con el fin de 
+				<br>encontrar ideas para todas las partes de sus vidas. Más del 
+				<br>75 % de las ideas de Pinterest surgen de empresas como la 
+				<br>tuya, por eso eres tan importante para los usuarios.</p>
+			</div>
+
+				<button class="btn-rojo" style="margin:50px 0px 110px 700px;">Descubre como funciona 
+				</button>
+
+			<div> <!--numeros segunda parte!-->
+				<p class="numeros-colores" style="color: #425E63; margin:0px 0px 0px 95px ">175M</p>
+				<p class="numeros-colores" style="color: #C6BFBB; margin:-130px 0px 0px 260px"
+					 align="center">50%+</p>
+				<p class="numeros-colores" style="color: #FF8080; margin:40px 0px 0px 95px ">80%</p>
+				<p class="numeros-colores" style="color: #004A90; margin:-130px 0px 0px 320px" 
+					align="center">	100mM</p>
+
+				<p class="textos-bajo-numeros" style="margin:-180px 0px 0px 100px"><strong>de personas
+					</strong></p>
+				<p class="textos-bajo-numeros" style="margin:-28px 0px 0px 680px"><strong>de fuera de 		los Estados Unidos</strong></p>
+				<p class="textos-bajo-numeros" style="margin:140px 0px 0px 95px"><strong>en dispositivos 	móviles</strong></p>
+				<p class="textos-bajo-numeros" style="margin:-30px 0px 0px 680px"><strong>Ideas</strong>
+					</p>
+			</div>
+
+			<div> <!--imagen segunda parte!-->
+				<img src="img/imagen-cel.jpg" width="1350" height="800" style="margin: 80px 0px 0px 0px">
+			</div>
+
+			<div class="todos-textos" style="margin: 40px 0px 0px 100px;">Leer historias de éxito</div>
+			<div class="todos-textos" style="margin: -20px 0px 60px 100px;">empresarial</div>
+			<div style="margin: -150px 30px 0px 980px; font-size: 2rem; font-weight: 700;"><a href="" 
+				style="color: #555555">Ver más</a>
+			</div>
+
+			<div>
+				<table  style="margin: 130px 110px;"> <!--tabla de imagenes!-->
+					<tr id="fila-tabla1">
+						<td id="columna-tabla1" style="border-right: 15px solid white"><img src="img/			imagen1-tabla.png" width="270" height="270" ></td>
+						<td style="border-right: 15px solid white"><img src="	img/imagen2-tabla.jpg" 			width="270" height="270"></td>
+						<td style="border-right: 15px solid white"><img src="	img/imagen3-tabla.jpg"			width="270" height="270" ></td>							
+						<td style="border-right: 15px solid white"><img src="	img/imagen4-tabla.jpg" 			width="270" height="270" ></td>
+					</tr>
+
+					<tr>
+						<td id="texto-subtitulos"><a href="" style="color: #555555"><b><br>Natura Makeup
+							<br></b></a></td>
+						<td id="texto-subtitulos"><a href="" style="color: #555555"><b><br>Burberry				</b></a></td>
+						<td id="texto-subtitulos"><a href="" style="color: #555555"><b><br>Reiss				</b></a></td>
+						<td id="texto-subtitulos"><a href="" style="color: #555555"><b><br>Dot &amp;Bo 
+							</b></a></td>
+					</tr>
+
+					<tr>
+						<td class="texto-tabla">Impulsar el tráfico orgánico<br> 	
+							con gran creatividad<br><br><br></td>
+						<td class="texto-tabla">Cómo establecer una<br> relación personal con los<br> 			usuarios para lanzar un<br> nuevo producto</td>
+						<td class="texto-tabla">Crear una estrategia de<br> Pinterest que venda<br><br>		
+						<br></td>
+						<td class="texto-tabla">Usar Pines promocionados<b></b> para ofrecer ideas 				creativas<br> para el hogar<br><br></td>
+					</tr>			
+				</table>
+			</div>			
+			<div class="rectangulo" style="	width: 1350px; height: 450px;background: #FF8080;
+				 margin: 0px 0px 30px 0px;"> <!--rectangulo contenedor rosado!-->
+						<div>
+							<p style=" color: #ffffff; font-size: 20px; margin: -20px 0px 0px 100px;">
+								<br><br><b>Kate Thurmes <br>Artifact Uprising</b></p>
+							
+						</div>
+
+						<div>
+							<p class="fuente-encabezado2">“Si no fuera por<br> Pinterest,<br> seguiríamos<br> 	 trabajando en un<br> sótano.”</p>
+						</div>
+		 	</div>
+
+		 	<div>
+
+		 	<div class="todos-textos" style="margin: 120px 0px 0px 680px;">Obtén una cuenta para</div>
+			<div class="todos-textos" style="margin: -20px 80px 0px 680px;">empresas</div>
+				<button class="btn-rojo" style="margin: 20px 0px 0px 690px;">Crea una cuenta 
+				</button>
+
+				<p style="margin: 140px 0px 240px 690px; font-size: 17px;">Fuentes: Análisis de Pinterest 2016 </p>
+		 	</div>
+
+		 	<div class="rectangulo" style="	width: 1350px; height: 514px;background: #DDD7D3;
+		 		margin: 0px 0px 0px 0px;" >
+
+		 		<div>
+		 			<div>
+		 				<img src="img/pinterescompleto.svg" width="167" height="40" 
+		 				 	 style="margin: 70px 0px 0px 100px">
+		 			</div>
+		 			<div>
+		 				<select name="slc-idioma" id="slc-idioma" style="border-radius: 4px; font-weight: bold; width: 270px; height: 40px; border-color: 
+		 					white; font-size: 16px; margin: 45px 0px 0px 100px">
+		 						<option> &nbsp Español</option>
+		 						<option>English</option>
+		 						<option>English UK</option>
+		 						<option>Bahasa Indonesia</option>
+		 						<option>Česky</option>
+		 						<option>Dansk</option>
+								<option>Deutsh</option>
+		 						<option>Français</option>
+		 						<option>Italiano</option>
+		 						<option>maygar</option>
+		 						<option>Malay</option>
+		 						<option>Norsk(bokmål)</option>
+		 						<option>Nederlands</option>
+		 						<option>Polski</option>
+		 						<option>Portugués, Brasil</option>
+								<option>Portugés, Portugal</option>
+		 						<option>Románá</option>
+		 						<option>Slovenčina</option>
+		 						<option>suomi</option>
+		 						<option>Svenska</option>
+		 						<option>Tagalog</option>
+		 						<option>Tiếng Việt</option>
+		 						<option>Türkçé</option>
+		 						<option>Pyccкий</option>
+		 						<option>Yкpaïнcвкa</option>
+		 						<option>Ελληνικά</option>
+		 						<option>ไทย</option>
+								<option>हिन्दी</option>
+		 						<option>한국어 (Korean)</option>
+		 						<option>日本語</option>		 	
+		 				</select>
+
+		 				<p style=" color: #555555; opacity: 0.5; font-family: inherit; font-size: 17px; 
+		 			margin: 280px 0px 0px 100px">
+		 				© Pinterest 2017</p>
+		 			</div>
+
+		 			<div>
+		 				<table> <!--tabla de vinculos!-->
+		 				<td>
+		 					<tr>
+		 						<p id="texto-subsubtitulos" style="margin: -430px 0px 0px 700px;">Acerca de nosotros</p>
+		 					</tr>
+
+		 					<tr>
+
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -430px 0px 0px 700px">
+		 							Qué es Pinterest</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555;
+		 							margin: -430px 0px 0px 700px">
+		 							 Nuestro blog</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555;
+		 							margin: -430px 0px 0px 700px">
+		 							Nuestra página de Pinterest</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555;
+		 							margin: -430px 0px 0px 700px">
+		 							 Blog de ingeniería</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555;
+		 							margin: -430px 0px 0px 700px">
+		 						 	Directrices de marca</a>
+		 					</tr>
+		 				
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555;
+		 							margin: -430px 0px 0px 700px">
+		 						 	Empleos</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555;
+		 							margin: -430px 0px 0px 700px">
+		 						 	Centro de asistencia</a>
+		 					</tr>
+		 				</td>
+
+		 				<td>
+		 					<tr>
+		 						<p id="texto-subsubtitulos" style="margin: -226px 0px 0px 990px;">
+		 							nuestras políticas</p>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -226px 0px 0px 990px">
+		 							Copyright &</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -226px 0px 0px 990px">
+		 							Marca comercial</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -226px 0px 0px 990px">
+		 							Condiciones del servicio</a>
+		 					</tr>
+
+		 					<tr>
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -226px 0px 0px 990px">
+		 							Privacidad & Cookies</a>
+		 					</tr>
+
+		 					<tr>
+		 						<p id="texto-subsubtitulos" style="margin: 30px 0px 0px 990px;">
+		 							Más información</p>
+		 					</tr>
+
+		 					<tr>
+
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -226px 0px 0px 990px">
+		 							Para Empresas</a>
+		 					</tr>
+
+		 					<tr>
+
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -226px 0px 0px 990px">
+		 							Para desarrolladores</a>
+		 					</tr>
+
+		 					<tr>
+
+		 						<a href="" class="texto-acercade" style="color: #555555; 
+		 							margin: -226px 0px 0px 990px">
+		 							Para la prensa</a>
+		 					</tr>
+
+		 				</td>
+
+		 				</table>
+
+		 			</div>
+		 		</div>
+			</div>
+		</div>
+	</body>
+</html>
