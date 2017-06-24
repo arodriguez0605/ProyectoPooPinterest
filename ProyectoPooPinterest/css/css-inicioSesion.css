@@ -1,0 +1,214 @@
+#body{
+	background-color: #efefef;
+}
+#div-contenedor{
+	margin-top: 100px;
+}
+#div-recuadro{
+	background-color:#fff;
+	border-radius:8px;
+	position:relative;
+	text-align:center;
+	width:404px;
+	margin:auto; 
+	min-height:520px;
+	box-shadow:0 2px 10px rgba(0,0,0,0.45); 
+}
+#div-dentroOtroRecuadro{
+	min-height:400px;
+	padding:20px 10px;
+}
+#div-logo{
+	display:block;
+	height:45px;
+	margin:5px auto;
+	width:45px;
+}
+#div-tamonoLogo{
+	height:40px; 
+	display:block;
+}
+
+#div-info{
+	margin:0 auto 25px;
+}
+
+#div-estiloLetra{
+	color:#555;
+	font-size:32px;
+	font-weight:bold;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	letter-spacing:-1.2px;
+	
+}
+
+#div-texto{
+	margin:0 auto;
+	margin-bottom:20px;
+	margin-top:-15px;
+	width:268px;
+	position:relative;
+}
+
+#div-espacio{
+	margin-bottom:8px;
+}
+
+#div-espacioPequ{
+	height:5px;
+}
+
+#div-telefono-contrasena{
+	background-color:#f0f0f0;
+	border:0px;
+	-webkit-box-shadow:none;
+	box-shadow:none;
+	position:relative;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	border-radius:3px;
+	font-weight:bold;
+	padding:10px;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	width:100%;
+	color:#333;
+	font-size:14px;
+	outline:none;
+	
+}
+
+#div-btnSesion{
+	border:0px;
+	height:36px;
+	display:inline-block;
+	border-radius:4px;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	padding:0 18px;
+	font-size:15px;
+	font-weight:bold;
+	outline:none;
+	position:relative;
+	-webkit-box-shadow:none;
+	box-shadow:none;
+	cursor:pointer;
+	margin-top:10px;
+	vertical-align:middle;
+	text-align:center;
+	background-color:#bd081c;
+	color:#fff;
+	width:100%; 
+
+}
+
+#div-o{
+	margin-bottom:3px;
+	overflow:hidden;
+	text-align:center;
+	color:#555;
+	font-weight:bold;
+}
+
+#div-btnFacebook{
+	border:0px;
+	height:40px;
+	display:block;
+	border-radius:2px;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;padding:0px 0px 0px 8px;
+	font-size:15px;
+	font-weight:normal;
+	outline:none;
+	position:absolute;
+	-webkit-box-shadow:none;
+	box-shadow:none;
+	cursor:pointer;
+	margin-top:10px;
+	vertical-align:middle;
+	text-align:left;
+	background-clip:padding-box;
+	background-color:#4267b2;
+	margin-bottom:9px;
+	transition:opacity .2s linear;
+	width:100%; 
+}
+
+#div-estiloBtnFacebook{
+	color:#fff;
+	display:inline-block;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	letter-spacing:normal;
+	line-height:16px;
+	padding: 4px 4px 4px 25px;
+	text-align:center;
+	vertical-align:text-bottom;
+	white-space:normal;
+	width:88%;
+
+	
+}
+
+#div-estiloGoogle{
+	border:0px;
+	height:40px;
+	display:block;
+	border-radius:2px;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	padding:1px;
+	font-size:15px;
+	font-weight:bold;
+	outline:none;
+	position:relative;
+	-webkit-box-shadow:none;
+	box-shadow:none;
+	cursor:pointer;
+	margin-top:0px;
+	vertical-align:middle;
+	text-align:left;
+	margin-bottom:9px;
+	margin-right:0px;
+	background-clip:padding-box;
+	transition:opacity .2s linear;
+	width:100%;
+	background-color:
+	#4285f4;
+	
+}
+
+#div-googleIcono{
+	border-radius:2px;
+	background-color:#fff;
+	display:inline-block;
+	height:95%;
+	margin-left:1px;
+	text-align:center;
+	width:38px;
+}
+
+#div-otroEspacio{
+	height:50px;
+}
+
+#div-contrasena{
+	margin-top:5px;
+	color:#555;
+}
+
+#div-barra{
+	border-bottom:#dedede 1px solid;
+	margin:10px auto;
+	width:110px;
+}
+
+#div-registrar{
+	border:none;
+	background-color:transparent;
+	font-weight:bold;
+	text-decoration:none;
+	vertical-align:baseline;
+}
